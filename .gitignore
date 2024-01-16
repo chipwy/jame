@@ -3,6 +3,8 @@
 .vsconfig
 obj
 Temp
+Logs
+UserSettings
 *.sln
 *.csproj
 *.blob
